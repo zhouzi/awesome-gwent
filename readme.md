@@ -15,7 +15,7 @@
 - [GwentDB](http://www.gwentdb.com/) - Card database, community made decks.
 - [Gwentify](http://gwentify.com/) - Card database, community made decks.
 - [Gwent Tracker](http://www.gwent-tracker.com/) - Desktop application providing information about your deck and opponent's.
-- [Gwentlemen Team](http://gwentify.com/) - Meta snapshot, deck guides, talkshows, game strategies.
+- [Gwentlemen Team](http://gwentlemen.com.s3-website.eu-central-1.amazonaws.com/) - Meta snapshot, deck guides, talkshows, game strategies.
 
 ### Communities
 
