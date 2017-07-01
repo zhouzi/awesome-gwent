@@ -26,6 +26,11 @@
 - [CD Projekt Red](https://www.twitch.tv/cdprojektred) - Official stream.
 - [Swim](https://www.twitch.tv/swimstrim)
 - [Lifecoach](https://www.twitch.tv/lifecoach1981)
+- [Noxious](https://www.twitch.tv/noxious_gg)
+- [Merchant](https://www.twitch.tv/rsmerchant)
+- [MegaMogwai](https://www.twitch.tv/megam0gwai)
+- [KingBlackToof](https://www.twitch.tv/kingblacktoof)
+- [McBearded](https://www.twitch.tv/mcbearded)
 
 ### Developer Tools
 
