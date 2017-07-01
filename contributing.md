@@ -11,4 +11,4 @@ Ensure new suggestions are associated to the relevant category and follow the fo
 - [Name of the resource](http://url-of-the-resource.com) - A few words to describe what it is about.
 ```
 
-Note that non-developer can contribute by [submitting an issue](https://github.com/zhouzi/awesome-gwent/issues/new) or sending an email to hello@gabinaureche.com.
+Note that non-developer can contribute by [submitting an issue](https://github.com/zhouzi/awesome-gwent/issues/new), replying to the [reddit post](https://www.reddit.com/r/gwent/comments/6kofep/list_of_the_best_resources_for_gwent/) or sending an email to hello@gabinaureche.com.
