@@ -6,7 +6,7 @@
 
 - [Tools](#tools)
 - [Communities](#communities)
-- [Streamers](#streamers)
+- [Streams](#streams)
 - [Developer Tools](#developer-tools)
 - [Other](#other)
 
@@ -16,13 +16,14 @@
 - [Gwentify](http://gwentify.com/) - Card database, community made decks.
 - [Gwent Tracker](http://www.gwent-tracker.com/) - Desktop application providing information about your deck and opponent's.
 - [Gwentlemen Team](http://gwentlemen.com.s3-website.eu-central-1.amazonaws.com/) - Meta snapshot, deck guides, talkshows, game strategies.
+- [Gwent.io](https://gwent.io/) - Card database, community made decks, leaderboard, card picker, streams.
 
 ### Communities
 
 - [Gwent Subreddit](https://www.reddit.com/r/gwent/) - Reddit community where CDPR is participating.
 - [@playgwent](https://twitter.com/playgwent) - Gwent official Twitter account.
 
-### Streamers
+### Streams
 
 - [CD Projekt Red](https://www.twitch.tv/cdprojektred) - Official stream.
 - [Swim](https://www.twitch.tv/swimstrim)
@@ -42,6 +43,7 @@
 
 - [Gwent-Online](https://github.com/exane/not-gwent-online) - Standalone multiplayer version of Gwent (The Witcher 3's version).
 - [Roach](https://github.com/jamieadkins95/Roach) - Android application to manage your Gwent collection.
+- [High-res Gwent Cards Art](https://www.reddit.com/r/gwent/comments/5se5jl/digital_art_collection_of_highres_gwent_cards_art/)
 
 ## Contribute
 
