@@ -7,6 +7,7 @@
 - [Tools](#tools)
 - [Communities](#communities)
 - [Streams](#streams)
+- [Browser Extensions](#browser-extensions)
 - [Developer Tools](#developer-tools)
 - [Other](#other)
 
@@ -18,6 +19,11 @@
 - [Gwentlemen Team](http://gwentlemen.com.s3-website.eu-central-1.amazonaws.com/) - Meta snapshot, deck guides, talkshows, game strategies.
 - [Gwent.io](https://gwent.io/) - Card database, community made decks, leaderboard, card picker, streams.
 - [GwentUp](https://gwentup.com/) - Desktop application providing information about your deck and opponent's.
+
+### Browser Extensions
+
+- [Card Finder For Gwent](https://chrome.google.com/webstore/detail/card-finder-for-gwent/pcfcjeaijiegidanbjbjabnolcibkmkh) - Displays a preview of a card when hovering its name on Reddit, Facebook, ...
+- [Reddit Gwent Card Preview](https://chrome.google.com/webstore/detail/reddit-gwent-card-preview/bifbkjnkpbkfaecopllpagfmdpjbnfkh) - Displays a preview of a card and adds an autocomplete on Reddit.
 
 ### Communities
 
