@@ -6,6 +6,7 @@
 
 - [Tools](#tools)
 - [Communities](#communities)
+- [Knowledge Base](#knowledge-base)
 - [Streams](#streams)
 - [Browser Extensions](#browser-extensions)
 - [Developer Tools](#developer-tools)
@@ -30,6 +31,13 @@
 - [Gwent Subreddit](https://www.reddit.com/r/gwent/) - Reddit community where CDPR is participating.
 - [@playgwent](https://twitter.com/playgwent) - Gwent official Twitter account.
 
+### Knowledge Base
+
+- [Gwent Wiki](http://gwent.gamepedia.com/Gwent_Wiki)
+- [Gwent Wikia](http://gwent.wikia.com/wiki/Gwent_Wikia)
+- [Reddit Wiki](https://www.reddit.com/r/gwent/wiki/index) - Resources collected by the Reddit community.
+- [Rank Rewards](https://www.reddit.com/r/gwent/comments/6gnsh3/levelranked_reward_tables/) - Table of the rewards for each rank.
+
 ### Streams
 
 - [CD Projekt Red](https://www.twitch.tv/cdprojektred) - Official stream.
@@ -51,6 +59,7 @@
 - [Gwent-Online](https://github.com/exane/not-gwent-online) - Standalone multiplayer version of Gwent (The Witcher 3's version).
 - [Roach](https://github.com/jamieadkins95/Roach) - Android application to manage your Gwent collection.
 - [High-res Gwent Cards Art](https://www.reddit.com/r/gwent/comments/5se5jl/digital_art_collection_of_highres_gwent_cards_art/)
+- [Gwent Sounds](https://soundcloud.com/gwentsounds/sets) - All sounds from the Game, available on Soundcloud.
 
 ## Contribute
 
