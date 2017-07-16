@@ -20,6 +20,7 @@
 - [Gwentlemen Team](http://gwentlemen.com.s3-website.eu-central-1.amazonaws.com/) - Meta snapshot, deck guides, talkshows, game strategies.
 - [Gwent.io](https://gwent.io/) - Card database, community made decks, leaderboard, card picker, streams.
 - [GwentUp](https://gwentup.com/) - Desktop application providing information about your deck and opponent's.
+- [Custom Gwent](http://custom-gwent.com/) - Web editor to create custom Gwent cards.
 
 ### Browser Extensions
 
