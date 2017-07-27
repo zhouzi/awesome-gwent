@@ -21,6 +21,7 @@
 - [Gwent.io](https://gwent.io/) - Card database, community made decks, leaderboard, card picker, streams.
 - [GwentUp](https://gwentup.com/) - Desktop application providing information about your deck and opponent's.
 - [Custom Gwent](http://custom-gwent.com/) - Web editor to create custom Gwent cards.
+- [Gwent Cards Discord Bot](https://pabloszx.github.io/Gwent-Cards/) - Discord bot that provides informations about cards.
 
 ### Browser Extensions
 
