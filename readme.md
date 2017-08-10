@@ -25,6 +25,7 @@
 
 ### Browser Extensions
 
+- [Hyper Gwent](https://soreine.github.io/hyper-gwent/) - Displays a preview of card when hovering its name, abbreviation or nickname.
 - [Card Finder For Gwent](https://chrome.google.com/webstore/detail/card-finder-for-gwent/pcfcjeaijiegidanbjbjabnolcibkmkh) - Displays a preview of a card when hovering its name on Reddit, Facebook, ...
 - [Reddit Gwent Card Preview](https://chrome.google.com/webstore/detail/reddit-gwent-card-preview/bifbkjnkpbkfaecopllpagfmdpjbnfkh) - Displays a preview of a card and adds an autocomplete on Reddit.
 
