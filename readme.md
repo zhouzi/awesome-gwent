@@ -63,6 +63,7 @@
 - [Roach](https://github.com/jamieadkins95/Roach) - Android application to manage your Gwent collection.
 - [High-res Gwent Cards Art](https://www.reddit.com/r/gwent/comments/5se5jl/digital_art_collection_of_highres_gwent_cards_art/)
 - [Gwent Sounds](https://soundcloud.com/gwentsounds/sets) - All sounds from the Game, available on Soundcloud.
+- [Gwent OST](https://www.youtube.com/watch?v=KJgsQc4ntxM) - Full Soundtrack
 
 ## Contribute
 
