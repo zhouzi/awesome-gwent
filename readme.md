@@ -32,7 +32,13 @@
 ### Communities
 
 - [Gwent Subreddit](https://www.reddit.com/r/gwent/) - Reddit community where CDPR is participating.
+- [Competitive Gwent Subreddit](https://www.reddit.com/r/Competitive_Gwent/) - Reddit community focusing on the competitive scene
 - [@playgwent](https://twitter.com/playgwent) - Gwent official Twitter account.
+- [Gwent Facebook](https://www.facebook.com/playgwent) - Gwent official Facebook account.
+- [Gwent Instagram](https://www.instagram.com/playgwent/) - Gwent official Instagram account.
+- [Gwent YouTube Channel](https://youtube.com/playgwent) - Gwent official YouTube channel.
+- [Gwent Discord](https://discordapp.com/invite/EETa9tm) - Gwent English Discord server.
+- [Gwent Forums](https://forums.cdprojektred.com/forum/en/gwent) Gwent official English forums.
 
 ### Knowledge Base
 
@@ -44,13 +50,17 @@
 ### Streams
 
 - [CD Projekt Red](https://www.twitch.tv/cdprojektred) - Official stream.
+- [Gwentlemen](https://www.twitch.tv/gwentlemen) - Official Gwentlemen team stream.
 - [Swim](https://www.twitch.tv/swimstrim)
 - [Lifecoach](https://www.twitch.tv/lifecoach1981)
-- [Noxious](https://www.twitch.tv/noxious_gg)
 - [Merchant](https://www.twitch.tv/rsmerchant)
 - [MegaMogwai](https://www.twitch.tv/megam0gwai)
 - [KingBlackToof](https://www.twitch.tv/kingblacktoof)
 - [McBearded](https://www.twitch.tv/mcbearded)
+- [Jaggerous](https://www.twitch.tv/jaggerous)
+- [Panda](https://www.twitch.tv/impetuouspanda)
+- [Freddybabes](https://www.twitch.tv/freddybabes)
+- [Crokeyz](https://www.twitch.tv/crokeyz)
 
 ### Developer Tools
 
@@ -61,9 +71,10 @@
 
 - [Gwent-Online](https://github.com/exane/not-gwent-online) - Standalone multiplayer version of Gwent (The Witcher 3's version).
 - [Roach](https://github.com/jamieadkins95/Roach) - Android application to manage your Gwent collection.
-- [High-res Gwent Cards Art](https://www.reddit.com/r/gwent/comments/5se5jl/digital_art_collection_of_highres_gwent_cards_art/)
+- [High-res Gwent Cards Art](https://www.reddit.com/r/gwent/wiki/cardsartwork) - List of all high resolution card artworks released from CD Projekt RED Artists.
 - [Gwent Sounds](https://soundcloud.com/gwentsounds/sets) - All sounds from the Game, available on Soundcloud.
 - [Gwent OST](https://www.youtube.com/watch?v=KJgsQc4ntxM) - Full Soundtrack
+- [Commander's Horn Podcast](http://commandershorn.com) - A weekly podcast about Gwent
 
 ## Contribute
 
