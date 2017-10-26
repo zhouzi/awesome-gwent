@@ -10,6 +10,7 @@
 - [Streams](#streams)
 - [Browser Extensions](#browser-extensions)
 - [Developer Tools](#developer-tools)
+- [eSports](#esports)
 - [Other](#other)
 
 ### Tools
@@ -66,6 +67,10 @@
 
 - [GwentAPI](https://gwentapi.com/) - REST API providing access to Gwent data.
 - [GwentAPI JS Client](https://github.com/zhouzi/gwent-api-client) - JavaScript client for the GwentAPI.
+
+### eSports
+
+- [Gwent Masters](https://masters.playgwent.com/) - Official eSports series of Gwent website.
 
 ### Other
 
