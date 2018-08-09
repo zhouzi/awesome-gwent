@@ -51,10 +51,8 @@
 ### Streams
 
 - [CD Projekt Red](https://www.twitch.tv/cdprojektred) - Official stream.
-- [Gwentlemen](https://www.twitch.tv/gwentlemen) - Official Gwentlemen team stream.
 - [Swim](https://www.twitch.tv/swimstrim)
 - [Lifecoach](https://www.twitch.tv/lifecoach1981)
-- [Merchant](https://www.twitch.tv/rsmerchant)
 - [MegaMogwai](https://www.twitch.tv/megam0gwai)
 - [KingBlackToof](https://www.twitch.tv/kingblacktoof)
 - [McBearded](https://www.twitch.tv/mcbearded)
